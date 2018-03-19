@@ -1,6 +1,6 @@
 require 'rest-client'
 require 'json'
-
+#realizando testes
 module Currency
   def self.exchange currency, currency_destination, quantity
     begin
